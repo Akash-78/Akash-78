@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...data structures and algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...akash6833sky@gmail.com
+- gmail-akash.srivastava_cs19@gla.ac.in
 
 <!---
 Akash-78/Akash-78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
